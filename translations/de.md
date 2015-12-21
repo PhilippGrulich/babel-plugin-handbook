@@ -1,6 +1,5 @@
 # Babel Plugin Handbuch
 
-Das Handbuch wurde nicht auf Deutsch übersetzt worden. Wenn Sie sprechen
-Englisch und würden gerne die Übersetzung dieses Handbuchs sehen Sie dieses
-Problem, um zu helfen:
+Das Handbuch wurde noch nicht auf Deutsch übersetzt. Wenn Sie bei der Übersetzung dieses Handbuches helfen wollen, finden Sie
+hier weitere Informationen:
 https://github.com/thejameskyle/babel-plugin-handbook/issues/29
